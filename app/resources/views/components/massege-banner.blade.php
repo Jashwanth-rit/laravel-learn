@@ -1,0 +1,7 @@
+<div>
+
+<h1>welcome , by massege-banner</h1>
+<!-- DISPLAYING MASSEGE PASSED BY WELCOME PAGE TO MASSEGE PAGE , AFTER INITIALISATION IN TOP VIEW MASSEGE FILE -->
+
+   
+</div>
